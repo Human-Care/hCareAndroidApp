@@ -7,4 +7,5 @@ vcs.xml
 .DS_Store
 /build
 /captures
+.idea/misc.xml
 .externalNativeBuild
